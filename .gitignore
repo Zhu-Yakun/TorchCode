@@ -11,6 +11,7 @@ notebooks/
 dist/
 build/
 .venv/
+.local/
 
 # JupyterLab extension build artifacts
 labextension/lib/
