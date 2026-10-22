@@ -117,6 +117,10 @@ For a modern, standalone coding experience with an integrated IDE and dual-pane 
    ```
 3. Open **<http://localhost:3000>** in your browser.
 
+Accepted submissions are automatically saved as UTF-8 Python files in `MyAnswer/`,
+using the name `Problem Title (Difficulty).py`. A new accepted submission replaces
+the existing file; failed submissions leave the last accepted answer unchanged.
+
 ![TorchCode UI Preview](assets/ui_preview.png)
 
 ---
